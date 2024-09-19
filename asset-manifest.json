@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reminderappreact/static/css/main.ef865070.css",
+    "main.js": "/reminderappreact/static/js/main.b084afd5.js",
+    "static/js/453.937a0da3.chunk.js": "/reminderappreact/static/js/453.937a0da3.chunk.js",
+    "index.html": "/reminderappreact/index.html",
+    "main.ef865070.css.map": "/reminderappreact/static/css/main.ef865070.css.map",
+    "main.b084afd5.js.map": "/reminderappreact/static/js/main.b084afd5.js.map",
+    "453.937a0da3.chunk.js.map": "/reminderappreact/static/js/453.937a0da3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef865070.css",
+    "static/js/main.b084afd5.js"
+  ]
+}
